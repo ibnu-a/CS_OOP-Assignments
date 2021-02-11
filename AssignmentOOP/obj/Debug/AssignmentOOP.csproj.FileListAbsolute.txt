@@ -1,0 +1,6 @@
+C:\Users\IBNU\source\repos\AssignmentOOP\AssignmentOOP\bin\Debug\AssignmentOOP.exe.config
+C:\Users\IBNU\source\repos\AssignmentOOP\AssignmentOOP\bin\Debug\AssignmentOOP.exe
+C:\Users\IBNU\source\repos\AssignmentOOP\AssignmentOOP\bin\Debug\AssignmentOOP.pdb
+C:\Users\IBNU\source\repos\AssignmentOOP\AssignmentOOP\obj\Debug\AssignmentOOP.csprojAssemblyReference.cache
+C:\Users\IBNU\source\repos\AssignmentOOP\AssignmentOOP\obj\Debug\AssignmentOOP.exe
+C:\Users\IBNU\source\repos\AssignmentOOP\AssignmentOOP\obj\Debug\AssignmentOOP.pdb
